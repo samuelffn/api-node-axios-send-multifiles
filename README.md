@@ -18,14 +18,14 @@ npm i form-data
 ## Axios  
 **npm i axios**  
 Cliente HTTP baseado em promise para ser utilizado no navegador e no node.js.  
-Links:
-*https://www.npmjs.com/package/axios#using-applicationx-www-form-urlencoded-format*  
-*https://axios-http.com/*
+Links:  
+- *https://www.npmjs.com/package/axios#using-applicationx-www-form-urlencoded-format*  
+- *https://axios-http.com/*
   
 ## Form-Data  
 **npm i form-data**  
 Uma biblioteca para criar fluxos "multipart/form-data" legíveis. Pode ser usado para enviar formulários e uploads de arquivos para outros aplicativos da web.  
 Utilizamos em conjunto com o axios para o envio de vários arquivos.  
-Links:
-*https://www.npmjs.com/package/form-data*  
-*https://github.com/ljharb/qs*
+Links:  
+- *https://www.npmjs.com/package/form-data*  
+- *https://github.com/ljharb/qs*
