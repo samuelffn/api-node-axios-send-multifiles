@@ -8,7 +8,7 @@ Poc de API NodeJs para envio de vários arquivos com Axios. Seria a mesma funcio
 4) ls  
   
 ## Comando para executar o projeto  
-Instalando as dependências: **npm i**
+Instalando as dependências: **npm i**  
 Executando só com o node: **node api.js**  
 Usando o script para execução: **npm run start**   
   
